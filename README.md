@@ -32,8 +32,8 @@ If you can't or don't want to run and install locally, you can work with this re
 1. Clone the repo
 
 ```
-git clone https://github.com/Cyfrin/html-fund-me-cu
-cd html-fund-me-cu
+git clone https://github.com/tmeechh/HTML-FUND-ME
+cd HTML-FUND-ME
 ```
 
 2. Run the `index.html` file
